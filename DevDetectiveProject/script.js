@@ -173,8 +173,8 @@ function init() {
   }
 
 
-  //by default, pranaygupta ki info show krre h UI pr
-  getUserData(url + "thepranaygupta");
+  //by default, prateek-tiwari012 ki info show krre h UI pr
+  getUserData(url + "prateek-tiwari012");
 }
 
 init();
